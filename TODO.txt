@@ -1,0 +1,7 @@
+visualizations:
+- pitch relative to previous note
+- pitch relative to first note
+- comparing two (or more?) scales
+- scale on fretboard (standard tuning)
+- scale on piano
+- note names with transpose option
