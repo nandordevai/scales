@@ -1,0 +1,29 @@
+.scale__notes {
+    list-style-type: none;
+}
+
+.scale__note {
+    float: left;
+    width: 20px;
+    background: #000;
+}
+
+.scale__note--0 {
+    height: 1px;
+}
+
+.scale__note--1 {
+    height: 10px;
+}
+
+.scale__note--2 {
+    height: 20px;
+}
+
+.scale__note--3 {
+    height: 30px;
+}
+
+section {
+    clear: left;
+}
